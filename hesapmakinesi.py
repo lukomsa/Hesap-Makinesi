@@ -28,7 +28,7 @@ def log(x):
 def karekok(x):
   return math.sqrt(x)
 
-def made_by_lukomsa():
+def made_by_lukomsa0():
   print("Made by Lukomsa")
 
 def is_number(text):
@@ -114,7 +114,7 @@ def main():
     if devam.lower() == "h":
       print("Bizi kullandığınız için teşekkürler 'lukomsa' ")
       break
-    made_by_lukomsa()
+made_by_lukomsa0()
 
 if __name__ == "__main__":
   main()
