@@ -28,6 +28,9 @@ def log(x):
 def karekok(x):
   return math.sqrt(x)
 
+def made_by_lukomsa():
+  print("Made by Lukomsa")
+
 def is_number(text):
   pattern = re.compile("[0-9.]+")
   return pattern.match(text)
@@ -109,8 +112,9 @@ def main():
     devam = input("Devam etmek ister misiniz? (e/h): ")
 
     if devam.lower() == "h":
-      print("Bizi kullandığınız için teşekkürler")
+      print("Bizi kullandığınız için teşekkürler 'lukomsa' ")
       break
+    made_by_lukomsa()
 
 if __name__ == "__main__":
   main()
