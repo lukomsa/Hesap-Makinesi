@@ -46,6 +46,6 @@ Hesap makinesi açık kaynak kodlu bir projedir. Github'da bulunan kaynak kodunu
 
 Hesap makinesi hakkında daha fazla bilgi edinmek için Github sayfasını ziyaret edebilirsiniz.
 
-**Github Sayfası:** https://github.com/lukomsa/Hesap-Makinesi/tree/main
+**Github Sayfası:** [https://github.com/lukomsa/Hesap-Makinesi/tree/main](https://github.com/lukomsa/Hesap-Makinesi)
 
 **Umarım bu hesap makinesi size yardımcı olur!**
